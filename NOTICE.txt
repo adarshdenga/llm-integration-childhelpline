@@ -1,0 +1,4 @@
+This product includes software from https://github.com/botfront/rasa-webchat.
+
+
+The css chat typing animation in \dktfrontend\training-system-frontend\src\components\WebChatComponent.vue is licensed under the Apache 2.0 License.

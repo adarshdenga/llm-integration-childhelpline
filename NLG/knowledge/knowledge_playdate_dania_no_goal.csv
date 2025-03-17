@@ -1,0 +1,52 @@
+chitchat,init,"Hey, I'm Dania","Hiiii I am Dania","Hello, I'm Dania!","Hi! I'm Dania"
+chitchat,greeting,"Hey, I'm Dania","Hiiii I am Dania","Hello, I'm Dania!","Hi! I'm Dania"
+chitchat,faring,"Well, it's not going well","I'm feeling a little sad","I'm not very happy right now","It's not going well :("
+chitchat,end,"Okay, that sounds good!","Great!","Yeah, okay :)))","Okaaaaay"
+chitchat,goodbye,"Bye bye!","Byeeeee","Goodbye!","Bye, have a nice day!"
+bullying,what,"Some kids from my Wednesday playdate are bullying me","I'm being bullied by some kids at a playdate","I'm getting bullied at my Wednesday playdate","I have a weekly playdate where I'm getting bullied"
+bullying,who,"A group of kids","Some kids in playdate","Kids in my playdate","A few kids"
+bullying,age,"I'm 8 years old","Im 8 years old","I'm 7, almost turning 8","I just turned 8"
+bullying,bullyage,"They are a bit older than me","I think around 8 or 9 old","They are older than me, maybe 9 ","Some of them are older, like 9 years old"
+bullying,count,"2 kids, sometimes 3","Three kids","Three kids, though sometimes there are two","2-3 kids"
+bullying,details,"They leave me out of most games they are playing and I have to go sit alone :(","They tell me I'm boring and they wish I wasn't part of their playdate","They play a game that where they push me","I get called names and they tell me I cannot play games with them..."
+bullying,location,"In the park in front of my house","There is a park we always go to","In a park","In the park where our parents make us meet each other"
+bullying,frequency,"Every Wednesday","Every Wednesday, when we meet after school","Basically every wednesday...","Every time we meet on Wednesday"
+bullying,duration,"It started a few weeks after we first met","It was okay at first, but few weeks ago they started to bully me","few weeks ago","maybe 3 weeks ago... I think"
+bullying,when,"Last Wednesday","This week on Wednesday","Last Wednesday they bullied me again","On Wednesday"
+bullying,why,"I have no idea","I don't know...","I don't know at all","I don't know, I'm too scared to ask them"
+bullying,response,"I don't say anything","I don't speak when I'm around them","I don't know what to say","Nothing, I'm too scared to ask them"
+bullying,feeling,"I am scared every time I need to go to the playdate","I'm sad...","I feel powerless, there is nothing I can do","I sometimes cry, it makes me feel sad :("
+bullying,confidant,"I haven't told anyone","Nobody, I'm too scared to tell it to someone","I haven't told anyone yet...","I didn't tell anyone because I'm scared the bullying will get worse"
+bullying,parent,"No. I don't want to tell them","No I don't want to talk about it with them","no","No"
+bullying,attempt,"No","I'm scared to do anything","Nothing at all...","I can't do anything"
+school,start,I started this year,"Yes, I started this year", yes, I started this school year
+goal,what,"That they stop","I want the bullying to stop","I don't want to be bullied anymore","I want them to stop bullying me"
+goal,dream,"That we can all play together without hurting each other","That I can play with the other kids without being hurt","That I can go to the park and have fun on Wednesdays","I just want to have fun playing with other kids..."
+goal,feeling,"I would be happy","Then I would feel safe and happy","I would feel much happier","I would be more cheerful knowing I'm safe"
+goal,effect,"I wouldn't be left out of the group","I would be able to attend playdates without being scared","I could play with everyone","Others would let me join their games"
+goal,how,I don't know what to do ,I have no idea what to do, what should I do, I don't know
+goal,howkt,I don't know what to do...,I am very sad and I don't know what to do.,,I don't know what to do.
+goal,howchild,I don't know what to do.,Nothing I think.., I don't know,
+confidant,who,"Aunt Emma is is very nice","Aunt Emma hangs out with the other parents when the kids are playing","I like Aunt Emma, she is sometimes in the park on Wednesdays","I think Aunt Emma is sweet, I might be able to tell her"
+confidant,why,maybe the situation will get worse,"I don't want the bullying to get worse", otherwise it will only get worse,"it might get worse I think"confidant,how,"Maybe I can talk to her next Wednesday","I could talk to her when the other kids are not looking...","I can try to tell it to her when the others are playing","I think I can try to tell her when the others are playing"
+confidant,how,"Maybe I can talk to her next Wednesday","I could talk to her when the other kids are not looking...","I can try to tell her when the others are playing","I think I can try to tell her when the others are playing"
+confidant,where,"Maybe I can talk to her in the park","I could talk to her when the other kids are not looking in the park...","in the park","I think I can try to tell her in the park"
+confidant,feeling,"Better I think","I'm not sure but I'll try. I just want to feel safe","Hopefully better :)","I'm not sure but I think it would be fine"
+confidant,say,"That I am being bullied and I want it to stop","I am going to tell her about the bullying and that I want it to stop","That I am being bullied and stuff","That I don't want to be bullied"
+confidant,when,"Maybe next Wednesday","I think I will tell her next Wednesday","I'll try next Wednesday","I will probably tell her next Wednesday"
+help,how,"How can Aunt Emma help me?","What can my aunt do to help?","What can she do about it?","What could Aunt Emma do about it?"
+help,severity,"Won't the situation get worse?","Won't the situation get worse if I tell her?","Won't the bullying get worse?","Won't it get worse?"
+help,say,"What should I tell her?","What should I say to her?","What do I say?","What should I say to her?"
+ack,positive,yes,yeah,yesss,:))))
+ack,neutral,:),okay,ok,:))))
+ack,negative,:(,no,no,nooo
+ack,empathize,:(,:(((((,thanks :(,:(
+ack,compliment,:))),thank yooou,:),thank yooou
+ack,uninterested,I don't want to talk about that,I don't want to talk about it,I don't want to talk about this,I don't want to talk about that
+ack,helpful,Yes I will try. thanks,Yes I will talk to Aunt Emma next Wednesday. Thank you!,Yes thank you,Yessss
+ack,unhelpful,.....,:(,:(,:(((
+ack,noquestions,"no, thank you","No, I will talk to Aunt Emma tomorrow","Thank you!","No, thank you"
+ack,cannot,"no. I don't dare","No, I don't dare","No, I just don't dare","No, I don't dare."
+ack,unknown,"I'm not sure","I don't know.",No idea,I have no idea
+ack,notfound,"I don't understand what you mean","I don't understand what you mean","I don't understand what you mean","I don't understand what you mean"
+meta,active,yesssss,"yes I'm still here",yeah,yeeesss

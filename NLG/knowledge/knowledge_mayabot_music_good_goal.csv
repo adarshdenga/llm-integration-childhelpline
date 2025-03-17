@@ -1,0 +1,54 @@
+chitchat,init,"Hey, I'm Maya","Hello, I'm Maya", "Hi hi! I am Maya", "Hi my name is Maya"
+chitchat,greeting,"Hey, I'm Maya","Hello, I'm Maya", "Hi hi! I am Maya", "Hi my name is Maya"
+chitchat,faring,"Well, it's not going well","I'm feeling a little sad","I'm not very happy right now","It's not going well :("
+chitchat,end,"Okay, that sounds good!","Great!","Yeah, okay :)))","Okaaaaay"
+chitchat,goodbye,"Bye bye!","Bye!","Goodbye","Have a nice day!"
+bullying,what,"I'm bullied by some kids in my piano class","I'm being bullied in my afternoon piano lessons :(","I go to piano lessons and I started getting bullied","Some kids in my piano class are bullying me"
+bullying,who,"There is a group of them.","There are 4 to 5 of them", "There sometimes is a group of them", "Group of them"
+bullying,age,"I'm 10 years old","I'm 10 years old","I'm 10 years old","I just turned 10"
+bullying,bullyage,"They are around my age","They are in the same class","They are the same age as me, around 9","Most of them are 9 years old"
+bullying,count,"4-5 kids","four to five people","4-5 kids","Usually four people, sometimes five"
+bullying,details,"They tell me I'm so bad at playing music I can't even play the triangle","Some kids start laughing and making fun at me whenever I try to play a song","I come into class and they start pointing at me and gossiping with each other","They talk about me behind my back and write mean notes in my music sheets"
+bullying,location,"During piano lessons","When I attend piano lessons","when I have piano class","During my afternoon piano class"
+bullying,frequency,"Every piano lesson","I think it happens every piano lesson","Whenever I am in piano class, maybe 1 or 2 times a week","Every time I attend piano lessons, so around 1 or 2 times a week"
+bullying,duration,"A few weeks ago","It started a few weeks ago","Since the start of this month","It started 3 weeks ago"
+bullying,when,"It happened yesterday when I entered the class","Yesterday they laughed at me when I played a song in front of the class","I was bullied yesterday right before the teacher entered the classroom","They made jokes about me yesterday"
+bullying,why,"I'm not sure why","I don't know","I have no idea","I'm not sure why, I'm too scared to ask"
+bullying,response,"I told them to stop once but they don't listen to me","I tried to tell them to stop at first but now I just stay quiet","I don't really say anything to them...","I don't say anything back"
+bullying,feeling,"I feel powerless and sad. sometimes I start crying","I want to start crying in class but I'm scared they will make fun of me even more","I get really sad when I cannot stand up for myself","I feel like I can't do anything"
+bullying,confidant,"I haven't told anyone yet","Noo I'm really scared to tell someone","No because the bullying may get worse","Not really..."
+bullying,parent,"No. I don't want to tell them","No I don't want to talk about it with them","no","No"
+bullying,attempt,"No","No,I'm scared to do anything","Noo I'm afraid of what could happen","I don't think I can do anything"
+school,start,I started this year,"Yes, I started this year", yes, I started this school year
+goal,what,"I want them to stop making fun of me","I want the bullying to stop","I don't want to be bullied anymore","I want them to stop bullying me"
+goal,dream,"I want to be happy when I go to piano class","I just want to feel safe in my piano class","I want to learn piano with friends who want to be with me","I wish I could go to piano class like a normal kid..."
+goal,feeling,"I would be much happier","Just happy...","Much more cheerful","More excited to go to class"
+goal,effect,"I would feel safer in class","I would start enjoying my piano class again","I would be more excited to go to class","It would motivate me more to go to class"
+goal,how,"Talking to someone maybe","Maybe I should tell someone about it","I think talking to someone about can help","Maybe I can talk to someone that might help"
+goal,howkt,"Do you think talking to someone is a good idea?","Maybe telling someone about it can help me?"," Should I tell an adult about it?","Is telling someone about it a good idea?"
+goal,howchild,"Maybe talking to someone","Maybe I should tell an adult about it","I think talking to someone about it is a good solution","Maybe telling someone about it might help"
+goal,when,"Maybe talking to someone could help","Maybe I should tell an adult about it",,
+confidant,who,"Miss Clara, my piano teacher","My piano teacher, she is very sweet","Maybe Miss Clara my piano teacher","My piano teacher knows me well maybe I can ask her"
+confidant,whochild,"I don't who I should talk to","I don’t know who to tell","I’m not sure who I should tell.","I don’t know who I can talk to"
+confidant,why,maybe the situation will get worse,"I don't want the bullying to get worse", otherwise it will only get worse,"it might get worse I think"
+confidant,how,"I can go to her after class","After class is done so that no one sees me","Maybe after class is finished","When everyone else leaves after class "
+confidant,where,"I can go to her after class","After class","Maybe after class is finished","When everyone else leaves after class "
+confidant,feeling,"Better I think","I'm not sure but I'll try. I just want to feel safe","Hopefully better","I'm not sure but I think it would be fine"
+confidant,say,"That other kids from my class are bullying me","That some piano students are bullying me","I am going to tell her that some of the kids in my class are bullying me","I'll tell her that I'm being bullied"
+confidant,when,"I'll go to her tomorrow","Probably tomorrow","After the next lesson, so tomorrow ","Tomorrow afternoon"
+help,how,"How can Miss Clara help?","Do you think talking to my teacher will help?","What can Miss Clara do about it?","What can Miss Clara do to help?"
+help,severity,"Won't the situation get worse?","Won't the situation get worse if I tell her?","Won't the bullying get worse?","Won't it get worse?"
+help,say,"What should I tell her?","What should I say?","What do I say?","What should I say to her?"
+ack,positive,yes,yeah,yesss,:))))
+ack,neutral,:),okay,ok,:))))
+ack,negative,:(,no,no,nooo
+ack,empathize,:(,:(((((,thanks :(,:(
+ack,compliment,:))),thank yooou,:),thank yooou
+ack,uninterested,"I don't want to talk about that","I don't want to talk about it","I don't want to talk about this","I don't want to talk about that"
+ack,helpful,"Yes I will try, thanks","Yes, I will talk to my teacher tomorrow. Thank you!","Yes, thank you :)","Yessss I will try"
+ack,unhelpful,.....,:(,:(,:(((
+ack,noquestions,"no, thank you","No, I will talk to Miss Clara tomorrow","Thank you!","No, thank you"
+ack,cannot,"no. I don't dare","No, I don't dare","No, I just don't dare","No, I don't dare."
+ack,unknown,"I'm not sure","I don't know.",No idea,I have no idea
+ack,notfound,"I don't understand what you mean","I don't understand what you mean","I don't understand what you mean","I don't understand what you mean"
+meta,active,yesssss,"yes I'm still here",yeah,yeeesss

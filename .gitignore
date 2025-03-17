@@ -1,0 +1,27 @@
+# Root-level IDE files
+/.idea/
+/venv/
+/.vscode/
+*.iws
+*.iml
+*.ipr
+/node_modules/
+
+# Specific project files
+/dktbdiagent/.idea/
+/dktbdiagent/target/
+
+# Logs
+/frontend/*.log
+/frontend/logs
+
+# Node.js modules and build artifacts
+/frontend/node_modules/
+/frontend/dist/
+/frontend/dist-ssr/
+/frontend/*.local/
+
+# Editor directories and files
+/frontend/.vscode/*
+!.vscode/extensions.json
+/frontend/.DS_Store/

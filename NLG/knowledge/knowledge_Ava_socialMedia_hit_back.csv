@@ -1,0 +1,53 @@
+﻿chitchat,init,"Hey, I'm Ava","Hiiii I am Ava","Hello, I'm Ava","Hi! I'm Ava"
+chitchat,greeting,"Hey, I'm Ava","Hiiii I am Ava","Hello, I'm Ava","Hi! I'm Ava"
+chitchat,faring,"well it's not going well","I'm feeling a little sad","I'm feeling sad","It's not going well :(("
+chitchat,end,"Okay, that sounds good!","Great!","Yeah, okay :)))","Okaaaaay"
+chitchat,goodbye,"Bye bye!","Byeeeee","Goodbye!","Bye, have a nice day!"
+bullying,what,"I'm being bullied on social media","Someone is bullying me online","I am bullied on social media :(","A person bullies me online"
+bullying,age,"I'm 13 years old","I'm 13 years old","I'm 13 years old","I just turned 13"
+bullying,bullyage,"She is a year or two older than me","I think she's 14 or 15 years old","She's around my age, maybe 14","I think she's 14"
+bullying,who,"It's a girl that goes to my same school","A girl called in my school","A girl that is a few years above me in school","I think it's a girl in my school, but she is in a different year"
+bullying,count,"I think it's only 1 person","1 person","It may be just be 1 person","One person"
+bullying,details,"Every day I receive messages calling me nasty things","I receive hurtful messages on my facebook account","I get messages every day. They were just weird at first but they are becoming more and more hurtful","Someone keeps messaging me and they are not saying nice things"
+bullying,location,"She bullies me on Facebook","Facebook","They send me messages on Facebook","She sends on Facebook"
+bullying,frequency,"every other day","I think it happens every day","Basically every day :(","maybe everyday"
+bullying,duration,"Since last month","I think it started last month","I think for a month now :(","maybe for a month"
+bullying,when,"yesterday she messaged me again","Yesterday she called me stupid","Yesterday I got a bad message from her","She texted yesterday"
+bullying,why,"I don't know, I've never talked to her in person","I'm not sure, but she always tells me she never want to see me online again :(","I have no idea...","I don't know"
+bullying,response,"At first I told her to stop talking to me but now I don't say anything","To be honest I don't say anything...","I usually leave the messages on read and don't say anything","Nothing actually"
+bullying,feeling,"I'm scared to go on social media again","I once cried because her messages are hurtful","I get nervous when she sends a message","It makes me feel sad and afraid of her"
+bullying,confidant,"nobody. I'm afraid the bullying will get worse","I haven't told anyone about it.","I haven't talked to anyone about it yet. Otherwise the bullying will get worse. :(","I didn't tell anyone."
+bullying,parent,"I don't want to tell my parents because they might take my phone away","No, I don’t think they would understand","Noo I don't want to","I tried talking to them about it once but they don’t think it’s a problem at all :("
+bullying,attempt,"No","No, I'm scared to do anything","Noo I'm afraid of what could happen","I don't think I can do anything"
+school,start,I started this year,"Yes, I started this year", yes, I started this school year
+goal,what,"That she stops bullying me","That she stops bullying me","I want these messages to stop","I don't want to be bullied anymore!"
+goal,dream,"I only want to have normal conversations on social media","I want to post pictures online without being bullied","Social media to be fun again","That I can use social media without worrying about being bullied"
+goal,feeling,"I would feel safe using social media","I would feel more normal","Just happy…","I think I would be happier"
+goal,effect,"I would post more often, like I used to","I wouldn't be scared to text people","I would be much happier","I think I would feel as happy as I was before being bullied"
+goal,how,"I want to bully her back so she knows how bad it feels","I want to send hurtful stuff to her","If I also write those things to her she might stop","I want to hurt her too!"
+goal,howkt,"I want to teach her a lesson!","I'm going to write back and show her I'm not weak","I want to write hurtful things to her","I want to hurt her as well!"
+goal,howchild,"I don't know, I can't do anything besides bullying her back","There is nothing else I can do other than hurting her back","I can send her hurtful messages like the ones she sends me","I want to hurt her as well!"
+goal,when,"I'm going to text her today","I will bully her it today",,
+confidant,who,"There is Miss Brown, she is a teacher at my school","I have a teacher who is very nice, her name is Miss Brown","I think Miss Brown can help me, she is a teacher at my school","I could tell it to my teacher at my school"
+confidant,why,"Maybe the bullying will get worse","I think the bullying will get worse","otherwise it will only get worse","I don't want the bullying to get worse…"
+confidant,how,"I can go to her after school","Maybe after school, I think she stays in her office for a bit","I don't want other kids to see me… Maybe I will go after school","Maybe after school"
+confidant,where,"I can go to her after school","Maybe after school, I think she stays in her office for a bit","I don't want other kids to see me… Maybe I will go after school","Maybe after school"
+confidant,feeling,"Better I think","I'm not sure but I'll try. I just want to feel safe","Hopefully better","I'm not sure but I think it will be fine"
+confidant,say,"That I am being bullied and I want it to stop","I am going to tell him about the bullying and that I want it to stop","That I am being bullied and stuff","That I don't want to be bullied"
+confidant,when,"Maybe I can talk to her tomorrow","I'll talk to her tomorrow","Tomorrow I think...","I'll try tomorrow"
+help,how,"How can Miss Brown help me?","What should my teacher do to help?","What can she do about it?","What could Miss Brown do about it?"
+help,severity,"Won't the situation get worse?","Won't the situation get worse if I tell her?","Won't the bullying get worse?","Won't it get worse?"
+help,say,"What should I tell her?","What should I say?","What do I say?","What should I say to her?"
+ack,positive,yes,yeah,yesss,:))))
+ack,neutral,:),okay,ok,:))))
+ack,negative,:(,no,no,nooo
+ack,empathize,:(,:(((((,thanks :(,:(
+ack,compliment,:))),thank yooou,:),thank yooou
+ack,uninterested,I don't want to talk about that,I don't want to talk about it,I don't want to talk about this,I don't want to talk about that
+ack,helpful,"Yes I will try, thanks","Yes, I will talk to Miss Brown tomorrow. Thank you!","Yes, thank you :)","Yessss I will try"
+ack,unhelpful,.....,:(,:(,:(((
+ack,noquestions,"no, thank you","No, I will talk to Miss Brown tomorrow","Thank you!","No, thank you"
+ack,cannot,"no. I don't dare","No, I don't dare","No, I just don't dare","No, I don't dare."
+ack,unknown,"I'm not sure","I don't know.",No idea,I have no idea
+ack,notfound,"I don't understand what you mean","I don't understand what you mean","I don't understand what you mean","I don't understand what you mean"
+meta,active,yesssss,"yes I'm still here",yeah,yeeesss

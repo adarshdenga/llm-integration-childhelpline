@@ -1,0 +1,15 @@
+B1,Ik denk dat KT mij begrijpt,alle fasen,0
+B2,Ik denk dat KT mij begrijpt,alle fasen,0,
+B3,Ik denk dat KT mij begrijpt,alle fasen,0,true
+B4,Ik denk dat KT mij begrijpt,alle fasen,0,,
+B5,Ik denk dat KT mij begrijpt,alle fasen,0,true,
+B6,Ik denk dat KT mij begrijpt,alle fasen,0,true,Depends on nothing
+B7,Ik denk dat KT mij begrijpt,alle fasen,0,false
+B8,Ik denk dat KT mij begrijpt,alle fasen,0,false,
+B9,Ik denk dat KT mij begrijpt,alle fasen,0,false,,
+B10,Ik denk dat KT mij begrijpt,alle fasen,0,falsee
+B11,Ik denk dat KT mij begrijpt,alle fasen,0,false,Depends on B4, B5, B6, B7
+B12,Ik denk dat KT mij begrijpt,alle fasen,0,false,Depends on B4 and B5
+B13,Ik denk dat KT mij begrijpt,alle fasen,0,false,"Depends on B4, B5, B6, B7"
+B14,Ik denk dat KT mij begrijpt,alle fasen,0,f,"Depends on B4, B5, B6, B7"
+B15,Ik denk dat KT mij begrijpt,alle fasen,0,fAlsE,"Depends on B4, B5, B6, B7"

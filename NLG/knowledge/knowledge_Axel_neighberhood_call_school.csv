@@ -1,0 +1,53 @@
+chitchat,init,"Hey, I'm Axel",Hiiii I am Axel,"Hello, I'm Axel!",Hi! I'm Axel
+chitchat,greeting,"Hey, I'm Axel",Hiiii I am Axel,"Hello, I'm Axel!",Hi! I'm Axel
+chitchat,faring,well it's not going well,I'm feeling horrible,I'm feeling sad,It's not going well :((
+chitchat,end,okaaaay that's good!,okaaaay great!,"yeah, okeeey :)))", okeeey :))
+chitchat,goodbye,Bye bye!,Bye!,Goodbye.,Have a nice day!
+bullying,what,My neighbours are bullying me :( ,I'm bullied by my neighbours,I'm being bullied,I'm being bullied in my neighbourhood :(
+bullying,who,Some kids that I have been playing outside with,I am being bullied by a few kids ,a group of kids,I am being bullied by a group of kids
+bullying,count,There is 4 of them. 2 guys and 2 girls,They are 4 or 5 kids,There is 4 of them. 2 guys and 2 girls,There is 4 of them. 2 guys and 2 girls
+bullying,details,When we go outside they start making jokes out of me. They call me dumb and say that I should go home,When I go outside other kids say horrible things about me,Everyone calls me stupid and says that I am weird and unlikable,When we go outside they start making jokes out of me. They call me dumb and say that I should go home
+bullying,location,We usually sit in a park in our neighbourhood,In one of parks in our neighbourhood,at my neighbourhood,In one of the parks in the neighbourhood
+bullying,age,"I'm 11 years old","I'm 11 years old","I'm 11 years old","I just turned 11"
+bullying,bullyage,"They are around my age","I think they are 11 years old too","They are the same age as me","Most of them are 10 or 11 years old"
+bullying,frequency,They are in the park everyday.,It happens almost everyday now, whenever they are in the park I feel like I want to hide somewhere. They are there almost everyday, everyday,when they are in the park
+bullying,duration,For a few weeks now,maybe 2 or 3 weeks now ,maybe for 3 weeks ,For a few weeks now.
+bullying,when,yesterday. I just got home from being with them. ,Yesterday I overheard them saying mean stuff about me in a group of other kids,Yesterday,yesterday they started laughing at me again and telling other kids to not be friends with me because I am weird.
+bullying,why,I don't know,"I'm not sure, but they say: Axel is the worst at all games we play, she shouldn’t participate","I don’t know, but they keep on saying that I am stupid and that no one would want to be friends with me",Don't know
+bullying,response,Im scared to do anything,Nothing actually,"Actually, I'm scared to do anything","Nothing. I am too scared, all of them are older."
+bullying,feeling,It makes me want to stay at home and hide from them,When I come home I'm always very sad about it.,"I often come home and cry because I'm being bullied. I feel powerless.","I often cry...I really don't know what to do anymore,I often feel left out :((("
+bullying,confidant,nobody. I don’t want to make it into a bigger situation than it is ,I haven't told anyone about it.,I haven't talked to anyone about it yet. Otherwise the bullying will get worse. :(,I didn't tell anyone.
+bullying,parent,"No. I don't want to tell them","No I don't want to talk about it with them","no","No"
+bullying,attempt,No,I'm scared to do anything, Nothing at all.,I can't do anything
+school,start,I started this year,"Yes, I started this year", yes, I started this school year
+goal,what,I want bullying to stop,That they stop bullying me, I want the bullying to stop,I don't want to be bullied anymore
+goal,dream,"I want them to stop making fun of me",I would like to go to be part of their friend group instead of being bullied by them,I want to play with friends outside and have fun,I want to hang out with my friends without being bullied
+goal,feeling, I would be happy, I would be happy, It would feel great to know I have friends who like me, I would feel happy
+goal,effect,I would be happy, then I would feel safe, others would notice that I am happy, I will feel happy
+goal,how,i want you to call their parents,i want you to call their parents, Call their parents please, Can you call their parents?
+goal,howkt,when could you call their parents?,could you call their parents?,could you call their parents?,I want you to call their parents
+goal,howchild,"I don't know",no idea,"I cant do anything",nothing really
+goal,when,when could you call their parents?,when will you call their parents?,,
+confidant,who,"Aunt Anu is is very nice","Aunt Anu hangs out with the other parents when the kids are playing","I like Aunt Anu, she is sometimes in the park","I think Aunt Anu is sweet, I might be able to tell her"
+confidant,why,maybe the situation will get worse,"I don't want the bullying to get worse", otherwise it will only get worse,"it might get worse I think"confidant,how,"Maybe I can talk to her next Wednesday","I could talk to her when the other kids are not looking...","I can try to tell it to her when the others are playing","I think I can try to tell her when the others are playing"
+confidant,how,"Maybe I can talk to her next Wednesday","I could talk to her when the other kids are not looking...","I can try to tell her when the others are playing","I think I can try to tell her when the others are playing"
+confidant,where,"Maybe I can talk to her in the park","I could talk to her when the other kids are not looking...","I can try to tell her when the others are playing in the park","I think I can try to tell her in the park"
+confidant,feeling,"Better I think","I'm not sure but I'll try. I just want to feel safe","Hopefully better :)","I'm not sure but I think it would be fine"
+confidant,say,"That I am being bullied and I want it to stop","I am going to tell her about the bullying and that I want it to stop","That I am being bullied and stuff","That I don't want to be bullied"
+confidant,when,"Maybe next tomorrow","I think I will tell her tomorrow","I'll try tomorrow","I will probably tell her tomorrow"
+help,how,"How can Aunt Anu help me?","What can my aunt do to help?","What can she do about it?","What could Aunt Anu do about it?"
+help,severity,"Won't the situation get worse?","Won't the situation get worse if I tell her?","Won't the bullying get worse?","Won't it get worse?"
+help,say,"What should I tell her?","What should I say to her?","What do I say?","What should I say to her?"
+ack,positive,yes,yeah,yesss,:))))
+ack,neutral,:),okay,ok,:))))
+ack,negative,:(,no,no,nooo
+ack,empathize,:(,:(((((,thanks :(,:(
+ack,compliment,:))),thank yooou,:),thank yooou
+ack,uninterested,"I don't want to talk about that","I don't want to talk about it","I don't want to talk about this","I don't want to talk about that"
+ack,helpful,Yes I will try. thanks,Yes I will talk to my Aunt Anu. Thank you!,yes thank you, Yessss
+ack,unhelpful,.....,:(,:(,:(((
+ack,noquestions,"no, thank you","No, I will talk to Aunt Anu tomorrow","Thank you!","No, thank you"
+ack,cannot,"no. I don't dare","No, I don't dare","No, I just don't dare","No, I don't dare."
+ack,unknown,"I'm not sure","I don't know.",No idea,I have no idea
+ack,notfound,"I don't understand what you mean","I don't understand what you mean","I don't understand what you mean","I don't understand what you mean"
+meta,active,yesssss,"yes I'm still here",yeah,yeeesss

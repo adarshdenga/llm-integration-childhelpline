@@ -1,0 +1,57 @@
+# To run this file, some addresses need to be changed in the project:
+
+# In dktbdiagent/src/main/resources/application.properties
+## Change first line:
+## from: spring.datasource.url=jdbc:postgresql://localhost:5432/dktbase
+## to: spring.datasource.url=jdbc:postgresql://db:5432/dktbase
+
+# In dktrasa/endpoints.yml
+## Change:
+## from: url: "http://localhost:5055/webhook"
+## to: url: "http://action-server:5055/webhook"
+
+# In dktrasa/actions/actions.py
+## Change:
+## from:
+## BDIAGENT_ENDPOINT = "http://localhost:8080/agent/"
+## REPORT_ENDPOINT = "http://localhost:8080/report/"
+## to:
+## BDIAGENT_ENDPOINT = "http://dktbdiagent:8080/agent/"
+## REPORT_ENDPOINT = "http://dktbdiagent:8080/report/"
+
+version: '3.8'
+services:
+  dktrasa:
+    user: root
+    build:
+      context:  dktrasa
+    ports:
+      - "5005:5005"
+  action-server:
+    build:
+      context: dktrasa/actions
+    ports:
+      - "5055:5055"
+  db:
+    build:
+      context: dktpostgres
+    ports:
+      - '5432:5432'
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready", "--dbname=dktbase", "--host=localhost", "--port=5432", "--username=postgres" ]
+      timeout: 10s
+      interval: 10s
+      retries: 10
+  dktfrontend:
+    build:
+      context: dktfrontend/training-system-frontend
+    ports:
+      - '5601:5601'
+  dktbdiagent:
+    build:
+      context: dktbdiagent
+    ports:
+      - '8080:8080'
+    depends_on:
+      db:
+        condition: service_healthy

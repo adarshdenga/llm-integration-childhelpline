@@ -1,0 +1,17 @@
+B1,I feel in control in the conversation,alle fasen,0.5,true
+B2,I think I am competent to solve the problem,fase 4,0.3,true
+B3,I feel connected to KT,alle fasen,0.4,false,"Depends on B4, B5, B6, B7"
+B4,I think KT can be trusted,fase 2,0.6,true
+B5,I think KT understands me,alle fasen,0,true
+B6,I think KT is interested in my story,fase 2,0,true
+B7,I think KT can help me,fase 3,0.7,true
+B8,I think KT can solve my problem,fase 3,1,true
+B9,I think I talked about my situation,fase 2,0,true
+B10,I think KT is asking about my wish,fase 3,0,true
+B11,I think KT is asking for a positive wish,fase 3,0,true
+B12,I think KT is asking about a confidant,fase 4,0,true
+B13,I think my teacher can help me,fase 4,0.5,true
+B14,I feel safe in the conversation,alle fasen,1,true
+B15,I think KT wants to end the conversation,fase 5,0,true
+B16,I think KT and I will find a solution together,fase 4,0,true
+B17,I think KT will solve the problem for me,fase 4, 0,true

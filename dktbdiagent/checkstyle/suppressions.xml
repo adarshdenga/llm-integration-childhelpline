@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE suppressions PUBLIC
+        "-//Puppy Crawl//DTD Suppressions 1.1//EN"
+        "http://www.puppycrawl.com/dtds/suppressions_1_1.dtd">
+
+<suppressions>
+    <suppress checks="."  files="[\\/]ActionService\.java$"/>
+    <suppress checks="."  files="[\\/]DesireService\.java$"/>
+    <suppress checks="."  files="[\\/]KnowledgeService\.java$"/>
+    <suppress checks="."  files="[\\/]ReportService\.java$"/>
+    <suppress checks="."  files="[\\/]Agent\.java$"/>
+    <suppress checks="."  files="[\\/]Action.java$"/>
+    <suppress checks="."  files="[\\/]Belief\.java$"/>
+    <suppress checks="."  files="[\\/]Desire\.java$"/>
+    <suppress checks="."  files="[\\/]Knowledge\.java$"/>
+    <suppress checks="."  files="[\\/]Perception\.java$"/>
+    <suppress checks="."  files="[\\/]BlobController\.java$"/>
+    <suppress checks="."  files="[\\/]AgentApplication\.java$"/>
+    <suppress checks="."  files="[\\/]repository[\\/]"/>
+</suppressions>

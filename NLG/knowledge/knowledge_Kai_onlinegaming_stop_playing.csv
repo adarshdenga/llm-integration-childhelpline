@@ -1,0 +1,53 @@
+chitchat,init,"Hey, I'm Kai.","Hello, I'm Kai.", "Hiii I am Kai.", "Hello I'm Kai."
+chitchat,greeting,"Hey, I'm Kai.","Hello, I'm Kai.", "Hiii I am Kai.", "Hello I'm Kai."
+chitchat,faring,"well it's not going well","I'm feeling a little sad","I'm feeling sad","It's not going well :(("
+chitchat,end,"okaaaay that's good!","okaaaay great!","yeah, okeeey :)))", okeeey :))
+chitchat,goodbye,"Bye bye!","Bye!","Goodbye.","Have a nice day!"
+bullying,what,"My online friends bully me when I play with them online.","I get bullied while playing an online game with my friends","My friends bully me while playing an online game","I'm bullied playing an online game"
+bullying,who,"There is a group of kids from my class.","There are 4 to 5 kids from my school", "a group of kids from my school", "Group of kids from my school"
+bullying,age,"I'm 11 years old","I'm 11 years old","I'm 11 years old","I just turned 12"
+bullying,bullyage,"They are around my age","They are in the same class","They are the same age as me, around 11","Most of them are 11 years old"
+bullying,count,"4-5 kids","3 or four kids","2-4 kids","sometimes two to four kids"
+bullying,details,"They keep calling me stupid and dumb in the game.","They keep calling me bad names in the chat whenever I make a mistake in the game","They say mean things to me in the chat when I can't do something in the game","They call me stupid in the chat when I ask them what to do"
+bullying,location,"when I play the an online game, they use the chat to call me mean things", "when I am playing they use the game's chat to call me mean things", "using the chat of the game when I am playing", "in the game chat while I am playing with them online"
+bullying,frequency,"maybe 2 to 3 times a week","2 to 4 times a week","few times a week","three to four times a week"
+bullying,duration,"since we started playing the game","couple of days ago","since the start of this month","from a week ago"
+bullying,when,"yesterday...when we were playing","Yesterday I did a mistake in the game and they kept calling me names","Yesterday","yesterday they said I'm stupid again"
+bullying,why,"I'm not sure why, I have told them to stop but they don't listen.","I don't know","I have told them to stop but they still do it","I'm not sure why"
+bullying,response,"Im scared to do anything","Nothing actually","Actually, I'm scared to do anything","Nothing."
+bullying,feeling,"I sometimes just quit the game. It makes me want to cry just thinking about it.","When I try to play I'm always very sad about it.","I often feel scared to play. I feel like I can't do anything.","It makes me sad. I sometimes cry...I really don't know what to do anymore"
+bullying,confidant,"nobody. I'm afraid the bullying will get worse","I haven't told anyone about it.","I haven't talked to anyone about it yet. Otherwise the bullying will get worse. :(","I didn't tell anyone."
+bullying,parent,"No. I don't want to tell them","No I don't want to talk about it with them","no","No"
+bullying,attempt,"I have told them to stop but they don't listen.","They don't listen to me even after I have told them to stop","I have told them to not harass me but they don't listen", "I have told them to stop but they just bully me more"
+school,start,I started this year,"Yes, I started this year",yes,I started this school year
+goal,what,"I wish the bullying would stop","That the bullying stops","I wish the bullying would end","I hope the bullying ends"
+goal,dream,"I have a lot of friends and we can play together happily","To play with my friends online and have fun","To be with my friends and play online together","Enjoy with my friends while playing online"
+goal,feeling, I would feel safe playing online, I would be happy, just be cheerful, I would feel happy
+goal,effect,I would be happy, then I would feel safe, others would notice that I am happy, I will feel happy
+goal,how,"I think I should stop playing games","I will skip playing","Maybe I will skip playing games","Maybe I will stop playing online"
+goal,howkt,I want to stop playing., I want to stop playing the game forever., I want stop the game.,I will stop playing online.
+goal,howchild,"I don't know",no idea,"I cant do anything",nothing really
+goal,when,I will not play with them tomorrow,I'm not going to play with them online tomorrow,,
+confidant,who,"I think Miss Rachel is sweet but I don't dare tell her","I do have my teacher. I might be able to talk to her","I do have Miss Rachel. I think she's super nice :))))","I like Miss Rachel."
+confidant,why,"If I tell someone the bullies will call me a coward","Maybe the situation will get worse","I don’t know, Maybe this will go away if I stay quiet.","If I tell someone the bullies maybe will bully me more"
+confidant,how,maybe I can do it after school., I can ask her after school. then there is no one around, maybe after school or something, maybe after school... then there is no one around
+confidant,where,maybe I can do it after school., I can ask her after school., maybe after school or something, maybe after school...
+confidant,feeling,Better I think,"I'm not sure but I'll try. I just want to feel safe", Hopefully better :),"I'm not sure but I think it would be fine"
+confidant,say,"That I am being bullied when I play the game","I'm being bullied in an online game","I get bullied while playing online","I'm being bullied in my online game"
+confidant,when,Maybe I can talk to her tomorrow.,"I'll talk to her tomorrow",tomorrow I think...,"I'll try tomorrow"
+help,how,what could Miss Rachel do about it?,how can my teacher help me?,what could my teacher do about it?,what could Miss Rachel do about it?
+help,severity,"won't the situation get worse?","won't the situation get worse if I tell her?","won't the bullying get worse?","won't it get worse?"
+help,say,what should I tell her?,what should I say?,what do I say?,what should I say to her?
+ack,positive,yes,yeah,yesss,:))))
+ack,neutral,:),okay,ok,:))))
+ack,negative,:(,no,no,nooo
+ack,empathize,:(,:(((((,thanks :(,:(
+ack,compliment,:))),thank yooou,:),thank yooou
+ack,uninterested,"I don't want to talk about that","I don't want to talk about it","I don't want to talk about this","I don't want to talk about that"
+ack,helpful,Yes I will try. thanks,Yes I will talk to Miss Rachel tomorrow. Thank you!,yes thank you, Yessss
+ack,unhelpful,.....,:(,:(,:(((
+ack,noquestions,"no, thank you","No, I will talk to Miss Rachel tomorrow","Thank you!","No, thank you"
+ack,cannot,"no. I don't dare","No, I don't dare","No, I just don't dare","No, I don't dare."
+ack,unknown,"I'm not sure","I don't know.",No idea,I have no idea
+ack,notfound,"I don't understand what you mean","I don't understand what you mean","I don't understand what you mean","I don't understand what you mean"
+meta,active,yesssss,"yes I'm still here",yeah,yeeesss

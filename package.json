@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@stomp/stompjs": "^7.0.0",
+    "axios": "^1.7.9",
+    "js-cookie": "^2.2.1",
+    "react-router-dom": "^7.1.1",
+    "uuid": "^11.0.5"
+  }
+}

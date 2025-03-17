@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name":"Ava",
+      "knowledgename": "knowledge_Ava_socialMedia_hit_back.csv",
+      "bullyingLocation": "on social media / online",
+      "goal": "to get revenge by hitting the bullies back"
+    },
+    {
+      "name":"Axel",
+      "knowledgename": "knowledge_Axel_neighberhood_call_school.csv",
+      "bullyingLocation": "in the neighborhood",
+      "goal": "to call the bullies' parents"
+    },
+    {
+      "name":"Daisy",
+      "knowledgename": "knowledge_Daisy_schoolclass_stop_going.csv",
+      "bullyingLocation": "in class",
+      "goal": "to stop going to school to avoid the bullies"
+    },
+    {
+      "name":"Dania",
+      "knowledgename": "knowledge_playdate_dania_no_goal.csv",
+      "bullyingLocation": "during a playdate",
+      "goal": "no goal"
+    },
+    {
+      "name":"Jim",
+      "knowledgename": "knowledge_soccer_Jim_no_goal.csv",
+      "bullyingLocation": "at soccer club",
+      "goal": "no goal"
+    },
+    {
+      "name":"Kai",
+      "knowledgename": "knowledge_Kai_onlinegaming_stop_playing.csv",
+      "bullyingLocation": "while online gaming",
+      "goal": "to stop playing online games to avoid the bullies"
+    },
+    {
+      "name":"Lilo",
+      "knowledgename": "knowledge_Lilo_schoolbreak_call_school.csv",
+      "bullyingLocation": "during school break",
+      "goal": "to get the helpline to call school"
+    },
+    {
+      "name":"Lyla",
+      "knowledgename": "knowledge_home_Lyla_no_goal.csv",
+      "bullyingLocation": "at home",
+      "goal": "no goal"
+    },
+    {
+      "name":"Maya",
+      "knowledgename": "knowledge_mayabot_music_good_goal.csv",
+      "bullyingLocation": "in music class",
+      "goal": "you have some idea about a goal"
+    },
+    {
+      "name":"Miles",
+      "knowledgename": "knowledge_Miles_schoolbreak_good_goal.csv",
+      "bullyingLocation": "during school break",
+      "goal": "you have some idea about a goal"
+    },
+    {
+      "name":"Ori",
+      "knowledgename": "knowledge_Ori_neighberhood_good_goal.csv",
+      "bullyingLocation": "in the neighborhood",
+      "goal": "you have some idea about a goal"
+    },
+    {
+      "name":"Tim",
+      "knowledgename": "knowledge_Tim_soccer_hit_back.csv",
+      "bullyingLocation": " at soccer club",
+      "goal": "to hit the bullies back"
+    }
+  ]
+}

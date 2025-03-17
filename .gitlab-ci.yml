@@ -1,0 +1,3 @@
+include:
+  - dktfrontend/training-system-frontend/node-pipeline.yml
+  - dktbdiagent/.gitlab-ci.yml

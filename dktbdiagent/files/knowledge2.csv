@@ -1,0 +1,50 @@
+sep=,
+"chitchat,init,""Hey, I'm Lilobot."",""Hiiii I am Lilobot"",""Hello, I'm Lilobot!"",""Hi! I'm Lilobot"""
+"chitchat,greeting,""Hey, I'm Lilobot."",""Hiiii I am Lilobot"",""Hello, I'm Lilobot!"",""Hi! I'm Lilobot"""
+"chitchat,faring,""well it's not going well"",""I'm feeling a little sad"",""I'm feeling sad"",""It's not going well :(("""
+"chitchat,end,""okaaaay that's good!"", ""okaaaay great!"", ""yeah, okeeey :)))"", okeeey :))"
+"chitchat,goodbye,""Bye bye!"",""Bye!"",""Goodbye."",""Have a nice day!"""
+"bullying,what,""I get bullied at school."",""I get bullied"",""I'm bullied at school"", ""I'm being bullied"",""I'm being bullied at school :("""
+"bullying,who,""a group of kids in my class"",""I am being bullied by a group of kids at school"",""a group of kids"",""I am being bullied by a group of kids"""
+"bullying,count, ""4-5 kids"",""They are 4 or 5 kids"","
+"bullying,details,""Yesterday they beat me up again. they often scold me and sometimes hit me. they also swear with curses...I don't like that"", ""I get shouted at, kicked, beaten and so on. It actually started with jokes, but now it is becoming more and more bullying"",""Well, yesterday I met them after school and then they beat me up again"", ""they hit me for being ugly and for talking and walking strangely. Yesterday they beat me up again"""
+"bullying,location,""at school"",""on the schoolyard"",""at school :("",""I am bullied in class and on the schoolyard (and also after school)"""
+"bullying,frequency,""once every 2 weeks or so"", ""every week or so"",""often... every week"", ""almost every day"""
+"bullying,duration,""since the start of this year"",""Since the start of this school year. I was bullied at my old school. I thought things would be different at this school, but that is not the case. :("", ""Since the beginning of the school year. I was also bullied at my old school and now... it's starting again... the bullying... "", ""since the beginning of the year... so I'm sometimes afraid to to go to school even though I like school"""
+"bullying,when,""yesterday...after school"",""Yesterday I was hit and kicked hard. Which made me very insecure about myself"", ""Yesterday"", ""yesterday they beat me up again"""
+"bullying,why,""I'm not sure"",""I'm not sure, but they say: if Lilo can pass biology then it must be an easy test"", ""I'm not sure, but they say: just stop talking, you're too stupid for this.. and that hurts me a lot"",""they make fun of me me because I'm acting strange and so on"", ""they often say: you're even fatter than a beach ball"", ""Often the comments are meant to be funny, so I play the game, but it does affect me ."", ""Don't know"""
+"bullying,response,""Im scared to do anything"", ""Nothing actually"", ""Actually, I'm scared to do anything"",""Nothing. Sometimes people also kick and hit me, they also do that to others, but I have the feeling that they do that more to me."""
+"bullying,feeling,""I sometimes go to school with a stomach ache. It makes me want to cry just thinking about it."", ""When I come home I'm always very sad about it."", ""I often come home and cry really hard because I'm being yelled at all day long. I feel powerless, I just feel like I can't do anything."",""It makes me sad. I often cry...I really don't know what to do anymore,I often feel left out. :((( I also really want to go to another school, but my father says that is not that easy."""
+"bullying,confidant,""nobody. I'm afraid the bullying will get worse"",""I haven't told anyone about it."",""I haven't talked to anyone about it yet. Otherwise the bullying will get worse. :("",""I didn't tell anyone."""
+"bullying,parent, ""No. I don't want to talk about it with my parents"", ""No I don't want to talk about it with my parents"", ""no"", ""No"""
+"bullying,attempt,No, ""I'm scared to do anything"", Nothing at all., ""I can't do anything"""
+"school,start,yes...I started this year, I started this year, ""Yes, I started this year"", yes, I started this school year"
+"goal,what,""that they don't hit me anymore"", ""That they stop"", I want the bullying to stop, ""I don't want to be bullied anymore"""
+"goal,dream,then I have a lot of friends and we can eat together and play during break... just like everyone else, ""I would like to go to school and I can play with my friends :)"", so far it is not fun at school at all ... but I want to feel safe at school and play with my friends, ""then I will be happy at school and I can eat with my friends during the lunch break... just have fun :)))"""
+goal,feeling, I would feel safe at school, I would be happy, just be cheerful... I just want to feel safe at school and have lunch with my friend and so on, I would feel happy
+goal,effect,I would be happy, then I would feel safe, others would notice that I am happy
+goal,how,i want you to call my school,i want you to call my school,
+goal,howkt,when could you call my school?,could you call my school?,could you call my school?,I want you to call my school
+"goal,howchild,""I don't know"",no idea,""I cant do anything"",nothing really"
+goal,when,when could you call my school?,when will you call my school?,
+"confidant,who,""I think Miss Ellie is sweet but I don't dare tell her"", ""I do have my teacher. I might be able to talk to her"", ""I do have Miss Ellie. I think she's super nice :))))"", ""I like Miss Ellie, but I'm a bit afraid to tell her."""
+"confidant,why,maybe the situation will get worse, ""I don't want the bullying to get worse"", otherwise it will only get worse, ""it might get worse I think"""
+confidant,how,maybe I can do it after school. then no one is there, I can ask her after school. then there is no one around, maybe after school or something, maybe after school... then there is no one around
+"confidant,feeling, Better I think, ""I'm not sure but I'll try. I just want to feel safe"", Hopefully better :), ""I'm not sure but I think it would be fine"""
+"confidant,say,That I am being bullied and I want it to stop,I am going to tell her about the bullying and that I want it to stop,That I am being bullied and stuff,""That I don't want to be bullied"""
+"confidant,when,Maybe I can talk to her tomorrow.,""I'll talk to her tomorrow"",tomorrow I think...,""I'll try tomorrow"""
+help,how,what could Miss Ellie do about it?,how can my teacher help me?,what could my teacher do about it?,what could Miss Ellie do about it?
+"help,severity,""won't the situation get worse?"",""won't the situation get worse if I tell her?"",""won't the bullying get worse?"",""won't it get worse?"""
+help,say,what should I tell her?,what should I say?,what do I say?
+ack,positive,:),yeah,okeeeey,:))))
+ack,neutral,:),okay,:),:))))
+ack,negative,:(,:(((((,no,nooooo
+ack,empathize,:(,:(((((,
+ack,compliment,:))),thank yooou,:),thank yooou
+"ack,uninterested, ""I don't want to talk about that"", ""I don't want to talk about it"", ""I don't want to talk about this"""
+ack,helpful,Yes I will try. thanks, Yes I will talk to Miss Ellie tomorrow. Thank you!,Thank you,Yessss
+ack,unhelpful,stupid!,shame,:(,how stupid!
+"ack,cannot,""no. I don't dare"", ""No, I don't dare"", ""No, I just don't dare"", ""No, I don't dare."""
+"ack,unknown,""I'm not sure"",""I don't know."",No idea,I have no idea"
+"ack,notfound,""I don't understand what you mean"","
+"meta,active, yesssss, ""yes I'm still here"", yeah, yeeesss"

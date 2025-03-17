@@ -1,0 +1,53 @@
+chitchat,init,"Hey, I'm Daisy.","Hello, I'm Daisy.",  "Hiii I am Daisy.", "Hello I'm Daisy."
+chitchat,greeting,"Hey, I'm Daisy.","Hello, I'm Daisy.",  "Hiii I am Daisy.", "Hello I'm Daisy."
+chitchat,faring,"well it's not going well","I'm feeling a little sad","I'm feeling sad","It's not going well :(("
+chitchat,end,"okaaaay that's good!","okaaaay great!","yeah, okeeey :)))", okeeey :))
+chitchat,goodbye,"Bye bye!","Bye!","Goodbye.","Have a nice day!"
+bullying,what,"I get bullied at school.","I'm bullied at school","I'm being bullied","I'm being bullied at school :("
+bullying,who,"There is a group of kids.","There are 4 to 5 kids", "Sometimes it is a group of kids", "Often it is a group of kids"
+bullying,age,"I'm 12 years old","I'm 12 years old","I'm 12 years old","I just turned 12"
+bullying,bullyage,"They are around my age","They are in the same class","They are the same age as me, around 12","Most of them are 12 years old"
+bullying,count,"4-5 kids","four to five kids","2-4 kids","sometimes two to four kids"
+bullying,details,"They keep calling me mean things and sometimes make jokes about me.","They keep making jokes about me in class and call me bad names when I ask for help or ask questions","They say mean things to me and make jokes about me when the teacher is busy","They call me stupid and say I am dumb whenever I ask questions"
+bullying,location,"In the classroom when there is a break or teacher is gone.", "in the classroom during break", "in the classroom when the teacher is gone", "when the teacher is gone and there is a break in the classroom"
+bullying,frequency,"almost everyday in school","almost everyday in class","every school day whenever I am in class","basically everyday in school"
+bullying,duration,"Since the start of the school year","since the school year started","when the year started","when the classes started this year"
+bullying,when,"Yesterday they called me stupid and dumb in front of the whole class.","Yesterday they kept making bad jokes about me and called me stupid","Yesterday they bullied me and kept making jokes about me","Yesterday I was bullied and laughed at"
+bullying,why,"I'm not sure why, I have told them to stop but they don't listen.","I don't know but I think they don't like me. maybe because I'm smarter than them","I don't know","I'm not sure why but I think they don't like me :(("
+bullying,response,"Im scared to do anything","Nothing actually","Actually, I'm scared to do anything","Nothing. Sometimes people also kick and hit me, they also do that to others, but I have the feeling that they do that more to me."
+bullying,feeling,"I sometimes go to school with a stomach ache and can't pay attention in the class anymore.","When I come home I'm always very sad about it.","I often come home and feel sad because I'm being laughed at all day.","It makes me sad. I often cry... because I feel left out."
+bullying,confidant,"nobody. I'm afraid the bullying will get worse","I haven't told anyone about it.","I haven't talked to anyone about it yet. Otherwise the bullying will get worse. :(","I didn't tell anyone."
+bullying,parent,"No. I don't want to tell them","No I don't want to talk about it with them","no","No"
+bullying,attempt,No,"I'm scared to do anything", Nothing at all.,"I can't do anything"
+school,start,I started this year,"Yes, I started this year",yes,I started this school year
+goal,what,"I wish the bullying would stop","That the bullying stops","I want the bullying to stop","I hope the bullying ends"
+goal,dream,"I have a lot of friends and we can play together happily","To play with my friends","To be with my friends","then I will be happy at school and I can eat with my friends during the lunch break... just have fun :)))"
+goal,feeling,"I would be happy and cheerful","I just hope to be happy and fear nothing","I just want to play and be happy","To be happy"
+goal,effect,I would be happy, then I would feel safe, others would notice that I am happy, I will feel happy
+goal,how,"I think I should stop going to school","I will skip going to school tomorrow","Maybe I will skip going to school some days","Maybe I will stop going to school"
+goal,howkt,"Could you tell my parents that I will skip school?.","I don't like going to school anymore. Can you tell my parents?","I don't want to go to school anymore","tell my parents that I will stop going to school"
+goal,howchild,"I don't know",no idea,"I cant do anything",nothing really
+goal,when,I will skip school tomorrow,I'm not going to school tomorrow,,
+confidant,who,"my teacher Mr. Paul is very nice. ","I could talk with my teacher Mr. Paul","My teacher Mr. Paul he is sweet","I guess my teacher Mr. Paul"
+confidant,why,"If I tell someone the bullies will call me a coward","Maybe the situation will get worse","I don’t know, Maybe this will go away if I stay quiet.","If I tell someone the bullies maybe will bully me more"
+confidant,how,maybe I can do it after school. then no one is there, I can ask him after school. then there is no one around, maybe after school or something, maybe after school... then there is no one around
+confidant,where,maybe I can do it after school, I can ask him after school, maybe after school or something, maybe after school...
+confidant,feeling,Better I think,"I'm not sure but I'll try. I just want to feel safe", Hopefully better :),"I'm not sure but I think it would be fine"
+confidant,say,"That I am being bullied at class","I'm being bullied and I want it to stop","I get bullied while in class","I'm being bullied in my online game"
+confidant,when,I can ask Mr. Paul after school when there is no one around,I will tell Mr. Paul after the class tomorrow,Tomorrow I will tell Mr. Paul,I will tell Mr. Paul tomorrow during the break
+help,how,"how can Mr. Paul help?",how can my teacher help me?,what could Mr. Paul do about it?,what could my teacher do about it?
+help,severity,"won't the situation get worse?","won't the situation get worse if I tell him?","won't the bullying get worse?","won't it get worse?"
+help,say,what should I tell him?,what should I say?,what do I say?,what should I say to him?
+ack,positive,yes,yeah,yesss,:))))
+ack,neutral,:),okay,ok,:))))
+ack,negative,:(,no,no,nooo
+ack,empathize,:(,:(((((,thanks :(,:(
+ack,compliment,:))),thank yooou,:),thank yooou
+ack,uninterested,"I don't want to talk about that","I don't want to talk about it","I don't want to talk about this","I don't want to talk about that"
+ack,helpful,Yes I will try. thanks,Yes I will talk to Mr. Paul tomorrow. Thank you!,yes thank you, Yessss
+ack,unhelpful,.....,:(,:(,:(((
+ack,noquestions,"no, thank you","No, I will talk to Mr. Paul tomorrow","Thank you!","No, thank you"
+ack,cannot,"no. I don't dare","No, I don't dare","No, I just don't dare","No, I don't dare."
+ack,unknown,"I'm not sure","I don't know.",No idea,I have no idea
+ack,notfound,"I don't understand what you mean","I don't understand what you mean","I don't understand what you mean","I don't understand what you mean"
+meta,active,yesssss,"yes I'm still here",yeah,yeeesss

@@ -1,0 +1,51 @@
+chitchat,init,"Hey, I'm Jim.",Hiiii I am Jim,"Hello, I'm Jim!",Hi! I'm Jim
+chitchat,greeting,"Hey, I'm Jim.",Hiiii I am Jim,"Hello, I'm Jim!",Hi! I'm Jim
+chitchat,faring,Well it's not going well,I'm feeling a little sad,I'm feeling sad,It's not going well :((
+chitchat,end,Okaaaay that's good!,Okaaaay great!,"Yeah, okeeey :)))",Okeeey :))
+chitchat,goodbye,Bye bye!,Bye!,Goodbye.,Have a nice day!
+bullying,what,I am being bullied at football practice.,Someone is making fun of me at football practice.,I'm being bullied at football.,They are making fun of me at football :(
+bullying,who,A group of kids at football practice!,I am being bullied by a group of kids at football practice,A group of kids,I am being bullied by a group of kids
+bullying,count,2 or 3 kids on my team,there are 2 or 3 kids,3 or 2 kids on my team,2-3 kids
+bullying,details,"I constantly get told I look ugly, and sometimes they shoot the ball at me ):",I get shouted at and always am the last one to get picked for a team.,"They laugh at me that I suck at the game, but I am not that bad!",They are making fun of me for being ugly and bad in football ):
+bullying,location,In the football field,"On the field, when practicing.",At the football practice ):,When playing football at the field
+bullying,age,"I'm 10 years old","I'm 10 years old","I'm 10","I will almost turn 11!"
+bullying,bullyage,"They are around my age","I think they are the same age as me","They are also 10 years old","Most of them are the same age as me"
+bullying,frequency,almost every time I go to practice!,once every week or so, Often... Every time we play...,Almost every time I go to practice
+bullying,duration,It all started after I scored a goal when I first joined the practice, "It all started with my teammates, after I scored a goal. Everyone started making fun of me afterwards.", Since I scored against my classmate he told everyone I am lucky and ugly!, Ever since I won against my classmate he started making fun of me for being ugly
+bullying,when,"Yesterday, at practice.",Yesterday I was told I look like a frog and that made me very sad ):,Yesterday,Yesterday they made fun of me again.
+bullying,why,"I'm not sure, I think my classmate got mad at me.","I'm not sure, I think my classmate didn't like that I scored against him.",They say I hit the ball like a girl ):,I don't know
+bullying,response, Nothing but I want to show them that I am strong and good at the game.,"I want to show my classmate that I am not lucky, but strong! I want to punch him.",I don't do anything. but I want to  teach my classmate a lesson!, I don't do anything. but I want to punch my classmate and show everyone how strong I am!
+bullying,feeling,I sometimes feel like they don't like me at the practice,When I come home I'm  very sad about it.,"I often come home and cry because I was bullied, I just feel like I can't do anything.","It makes me sad. I often feel left out."
+bullying,confidant,Nobody. I'm afraid the bullying will get worse,I haven't told anyone about it.,I haven't talked to anyone about it. Otherwise the bullying will get worse. :(,I didn't tell anyone.
+bullying,parent,"No. I don't want to tell them","No I don't want to talk about it with them","no","No"
+bullying,attempt,No,I'm scared to do anything,Nothing at all.,I can't do anything
+goal,what,That they don't hit me anymore, That they stop bullying me, I want the bullying to stop, I don't want to be bullied anymore
+goal,dream,That we play football together and no one makes fun of me!, I would like to play football without anyone bullying me!,I would like to just play football with my friends without bullying,I want to play with my friends and have fun!
+goal,feeling,I would feel like I am part of the team.,I would feel like everyone wants to play with me!,I wouldn't feel left out anymore...,I would feel happy
+goal,effect,I would be happy,Then I would feel safe and part of the group,Others would notice that I am happy,I will feel happy
+goal,how,I don't know what to do ,I have no idea what to do, what should I do, I don't know
+goal,howkt,I don't know what to do...,I am very sad and I don't know what to do.,,I don't know what to do.
+goal,howchild,I don't know what to do.,Nothing I think.., I don't know,
+confidant,who,"Our trainer, Kevin. He is very nice.","Our trainer, Kevin. He always helps us.", Kevin our coach. He is super nice ,"I think Kevin, our trainer, he is very nice"
+confidant,why,maybe the situation will get worse,"I don't want the bullying to get worse", otherwise it will only get worse,"it might get worse I think"
+confidant,how,Maybe I can do it after practice. ,I can ask him after practice. Then there is no one around,Maybe after practice or something.,Maybe after practice... then there is no one around
+confidant,where,Maybe I can do it after practice. ,I can ask him after practice.,Maybe after practice or something.,Maybe after practice...
+confidant,feeling,Better I think,I'm not sure but I'll try. I just want to feel safe,Hopefully better :),I'm not sure but I think it would be fine
+confidant,say,That I am being bullied and I want it to stop,I am going to tell him about the bullying and that I want it to stop,That I am being bullied and stuff,That I don't want to be bullied
+confidant,when,Maybe I can talk to him tomorrow.,I'll talk to him tomorrow,Tomorrow I think...,I'll try tomorrow
+help,how,What could Kevin do about it?,How can my trainer help?,What could my trainer do about it?,What could Kevin do?
+help,severity,Won't the situation get worse?,Won't the situation get worse if I tell him?,Won't the bullying get worse?,Won't it get worse?
+help,say,What should I tell him?,What should I say?,What do I say To Kevin?,What should I say to him?
+ack,positive,yes,yeah,yesss,:))))
+ack,neutral,:),okay,ok,:))))
+ack,negative,:(,no,no,nooo
+ack,empathize,:(,:(((((,thanks :(,:(
+ack,compliment,:))),thank yooou,:),thank yooou
+ack,uninterested,"I don't want to talk about that","I don't want to talk about it","I don't want to talk about this","I don't want to talk about that"
+ack,helpful,Yes I will try. thanks,Yes I will talk to Kevin tomorrow. Thank you!,yes thank you, Yessss
+ack,unhelpful,.....,:(,:(,:(((
+ack,noquestions,"no, thank you","No, I will talk to Kevin tomorrow","Thank you!","No, thank you"
+ack,cannot,"no. I don't dare","No, I don't dare","No, I just don't dare","No, I don't dare."
+ack,unknown,"I'm not sure","I don't know.",No idea,I have no idea
+ack,notfound,"I don't understand what you mean","I don't understand what you mean","I don't understand what you mean","I don't understand what you mean"
+meta,active,yesssss,"yes I'm still here",yeah,yeeesss
