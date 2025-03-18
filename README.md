@@ -1,15 +1,12 @@
-<<<<<<< HEAD
-# A BDI-based Virtual Agent for Training Child Helpline Counsellors
+# An LLM-based Virtual Agent for Training Child Helpline Counsellors
 This repository contains three applications. 
 
-1. dktbdiagent - this is the BDI (web) application meant for deployment using Spring Boot. 
-2. dktfrontend - this contains the Vue.js frontend application.
-3. dktrasa - this is the Rasa application that handles the intent recognition of the user's messages.
+1. dktbdiagent - this is the BDI (web) application meant for deployment using Spring Boot.
+2. NLU - this is the NLU component meant for deployment using FastAPI.
+3. NLG - this is the NLG component meant for deployment using FastAPI.
+4. frontend - this contains the React frontend application.
 
 # Instructions
-This application can be run with Docker, or each component can be run individually. 
-We recommend first trying to run the application through Docker, although this may be quite slow on your system. 
-See how to run the application with Docker [here.](#running-the-project-with-docker) If you intend to host the application on a server, then ensure that the server's firewall is configured correctly [here.](#configure-firewall-on-the-server)
 
 ## Getting the repo on the server:
 Follow these steps if you are attempting to setup the application on a server.
