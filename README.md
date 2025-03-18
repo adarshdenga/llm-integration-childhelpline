@@ -17,7 +17,7 @@ Alternatively, you can use personal access tokens to clone the repo.
 2. Clone the git repo with `git clone https://<username>:<access-token>@<your-gitlab-domain>/<project-name>.git`
 
 ## Setting up Postgres database
-### on local machine
+### On local machine
 1. Install a postgres server on your local machine. You can find instructions for this through a Google search.
 2. Create database for BDI application.
 ```
@@ -63,67 +63,13 @@ spring.datasource.password=password
 ```
 You should be able to run your BDI application successfully now. A more secure option is to use Github password manager (or whatever software management tool you're using) to save the credentials instead so your password isn't exposed.
 
+## NLG and NLU
+### Ollama Setup
+1. Install Ollama from https://ollama.com/download
+2. Download an LLM model. In our experiments we used Llama 3.2, but you can download any model from the Ollama model catalog.
+3. Run `ollama serve` to start an Ollama REST API endpoint at http://localhost:11434/. Requests can be made to the API endpoint to prompt the model.
 
-## Rasa
-### Local
-#### Installing Rasa
-1. Install anaconda locally if you do not already have it: https://docs.anaconda.com/free/anaconda/install/index.html
-2. Install python locally if you do not already have it. We used python 3.10: https://www.python.org/downloads/ 
-3. Create a new conda environment for rasa in the anaconda terminal.
-   - `conda create --name rasa`
-   - `conda activate rasa` to activate this environment
-4. See Rasa documentation on how to install Rasa on your machine or follow the instructions below: https://rasa.com/docs/rasa/installation/installing-rasa-open-source/
-   - `pip3 install -U pip`
-   - `pip3 install rasa`
-   - `pip3 install rasa[spacy]`
-   - `python3 -m spacy download nl_core_news_lg`
-   - If these commands do not work, try with `pip` and `python`.
-
-#### Running Rasa
-- Essentially, there are two servers you need to run - the Rasa server for the intent recognition and the custom action server that communicates with the BDI application to retreive a response.
-- In two separate anaconda terminals, activate the rasa environment with ```conda activate rasa```
-- First CD into the ```/dktrasa``` folder
-- To run the custom action server, use ```rasa run actions``` 
-- Run the Rasa server in the other terminal using ```rasa run -m models --enable-api --cors  "*"```
-
-### On Server
-The following instructions describe how to run Rasa on the server.
-
-#### System Specs
-Below are the specs of the server that this was run on (with higher system load it is recommended to upgrade this):
-  - Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
-  - 4 GB System Memory
-  - 47 GB Sysem Storage
-  - Ubuntu 22.04.1 LTS
-
-Some addresses need to be changed within the project to run the system on the server.
-Navigate to `/dktfrontend/training-system-frontend/src/config.js` and change:
-```js
-const config = {
-    agentServer: 'http://localhost:8080',
-    agentWsServer: 'ws://localhost:8080/session',
-    rasaServer: 'http://localhost:5005'
-};
-```
-to:
-```js
-const config = {
-    agentServer: 'http://{your.server.address}:8080',
-    agentWsServer: 'ws://{your.server.address}:8080/session',
-    rasaServer: 'http://{your.server.address}:5005'
-};
-```
-
-
-1. Connect to server via SSH.
-2. Install miniconda on the server by following these instructions: https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html
-3. Install python with `sudo apt-get install python3.10`
-4. Follow the instructions above for installing rasa at [installing rasa](#installing-rasa) from step 3
-5. Run rasa by running the commands below in the `/dktrasa` folder:
-   - To run the custom action server, use ```nohup rasa run actions &```
-   - Run the Rasa server using ```nohup rasa run -m models --enable-api --cors  "*" &```
-   - `nohup` ensures that the process does not die when leaving the ssh, and `&` sends the process to the background
-
+Documentation for the above can be found at https://github.com/ollama/ollama.
 
 ## Frontend Web Application
 ### Local
