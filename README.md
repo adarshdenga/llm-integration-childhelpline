@@ -1,5 +1,5 @@
 # An LLM-based Virtual Agent for Training Child Helpline Counsellors
-This repository contains three applications. 
+This repository contains four applications. 
 
 1. dktbdiagent - this is the BDI (web) application meant for deployment using Spring Boot.
 2. NLU - this is the NLU component meant for deployment using FastAPI.
